@@ -69,17 +69,17 @@ class BlankPage2 extends Component {
 
           <Item>
             <Input
-              placeholder="Capacidade"
+              placeholder="Caixa 1"
             />
           </Item>
           <Item>
             <Input
-              placeholder="Largura"
+              placeholder="Caixa 2"
             />
           </Item>
           <Item>
             <Input
-              placeholder="Altura"
+              placeholder="Caixa 3"
             />
           </Item>
           <Button
