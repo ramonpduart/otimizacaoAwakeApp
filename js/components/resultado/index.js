@@ -67,6 +67,16 @@ class Resultado extends Component {
           Resultado
           </Text>
 
+          <Text style = {{
+            fontWeight: 'bold',
+            fontSize: 20,
+            margin: 20,
+            padding: 10
+          }}
+          >
+            Quantidade de viagens: 2
+          </Text>
+
           
         </Content>
       </Container>
