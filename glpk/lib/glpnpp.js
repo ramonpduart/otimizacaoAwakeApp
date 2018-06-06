@@ -1,4 +1,0 @@
-function npp_error(){
-
-}
-
